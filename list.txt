@@ -1,0 +1,11 @@
+www
+ftp
+mail
+admin
+router
+www2
+firewall
+mx
+pop3
+smtp
+root
